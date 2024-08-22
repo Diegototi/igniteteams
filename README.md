@@ -26,10 +26,11 @@ igniteteams
 
 
  <p align="center">
-    <img src="imgs/imhere-home.jpg" width="20%" height="20%" max-width:"50%" >
-    <img src="imgs/imhere-add.jpg" width="20%" height="20%" max-width:"50%" >
-    <img src="imgs/Screenshot_20240820-190117_Expo Go.jpg" width="20%" height="20%" max-width:"50%" >
-    <img src="imgs/imhere-remv.jpg" width="20%" height="20%" max-width:"50%" >
+    <img src="imgs/screenshot_expo-go-home.jpg" width="20%" height="20%" max-width:"50%" >
+    <img src="imgs/screenshot_expo-go-add.jpg" width="20%" height="20%" max-width:"50%" >
+    <img src="imgs/Screenshot_expo go-list.jpg" width="20%" height="20%" max-width:"50%" >
+    <img src="imgs/screenshot__expo-go-alert.jpg" width="20%" height="20%" max-width:"50%" >
+    <img src="screenshot_expo-go-delete.jpg" width="20%" height="20%" max-width:"50%" >
   </p>
 
 ### :heavy_check_mark: Requisitos necessários
