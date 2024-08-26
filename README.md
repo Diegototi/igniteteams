@@ -1,7 +1,7 @@
 # igniteteams
 igniteteams
 
-  Foi desenvolvida uma aplicação no Visual Studio Code do curso de Formação React Native da [ROCKETSEAT](https://www.rocketseat.com.br/). O objetivo dessa aplicação é fazer o cadastro de pessoas em um evento. Cada pessoa cadastrada é exibida em uma Flat List. Também é possível excluir as pessoas do evento.
+  Foi desenvolvida uma aplicação no Visual Studio Code do curso de Formação React Native da [ROCKETSEAT](https://www.rocketseat.com.br/). O objetivo dessa aplicação é facilitar a organização de grupos de jogos. A aplicação utiliza navegação em pilha e armazenamento local ou seja, todos os dados são salvos diretamente no seu celular. Ela permite que você gerencie várias turmas, adicionando ou removendo jogadores com facilidade. . 
   
   Durante as aulas do foram aprendidos conteúdos relacionados estilização utilizando o Style Sheet, Text Input, TouchableOpacity, StatusBar, FlatList, criação de componentes, Hooks e Estado. 
 <br>
