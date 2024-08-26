@@ -3,7 +3,7 @@ igniteteams
 
   Foi desenvolvida uma aplicação no Visual Studio Code do curso de Formação React Native da [ROCKETSEAT](https://www.rocketseat.com.br/). O objetivo dessa aplicação é facilitar a organização de grupos de jogos. A aplicação utiliza navegação em pilha e armazenamento local ou seja, todos os dados são salvos diretamente no seu celular. Ela permite que você gerencie várias turmas, adicionando ou removendo jogadores com facilidade. . 
   
-  Durante as aulas foram aprendidos conteúdos relacionados estilização utilizando o Styled Components, navegação com Stack Navigator, persistência de dados com AsyncStorage TouchableOpacity, StatusBar, FlatList, criação de componentes, Hooks e Estado. 
+  Durante as aulas foram aprendidos conteúdos relacionados a: estilização utilizando o Styled Components, navegação com Stack Navigator, persistência de dados com AsyncStorage TouchableOpacity, StatusBar, FlatList, criação de componentes, Hooks e Estado. 
 <br>
 <br>
 <p align="center">
@@ -18,9 +18,12 @@ igniteteams
 
 ### Funcionalidades
 
-- Cadastrar pessoas;
-- Listar pessoas cadastradas em lista;
-- Excluir pessoas;
+- Cadastrar Grupos;
+- Cadastrar Pessoas; 
+- Listar Grupos cadastrados em lista;
+- Listar Pessoas cadastradas em lista;
+- Excluir Grupos;
+- Excluir Pessoas;
 
   
 
@@ -51,7 +54,7 @@ Seguem as configurações neessárias para visualizar a aplicação em sua máqu
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/Diegototi/imhere.git
+git clone https://github.com/Diegototi/igniteteams.git
 ```
 
 ### :beginner: Iniciando a aplicação
